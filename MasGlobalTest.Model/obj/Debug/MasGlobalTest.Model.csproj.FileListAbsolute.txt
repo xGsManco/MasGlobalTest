@@ -1,0 +1,6 @@
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.Model\bin\Debug\MasGlobalTest.Model.dll
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.Model\bin\Debug\MasGlobalTest.Model.pdb
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.Model\obj\Debug\MasGlobalTest.Model.csprojAssemblyReference.cache
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.Model\obj\Debug\MasGlobalTest.Model.csproj.CoreCompileInputs.cache
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.Model\obj\Debug\MasGlobalTest.Model.dll
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.Model\obj\Debug\MasGlobalTest.Model.pdb

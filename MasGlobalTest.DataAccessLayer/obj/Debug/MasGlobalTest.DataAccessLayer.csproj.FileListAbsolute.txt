@@ -1,0 +1,11 @@
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\bin\Debug\MasGlobalTest.DataAccessLayer.dll
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\bin\Debug\MasGlobalTest.DataAccessLayer.pdb
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\bin\Debug\MasGlobalTest.Model.dll
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\bin\Debug\MasGlobalTest.Model.pdb
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\obj\Debug\MasGlobalTest.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\obj\Debug\MasGlobalTest.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\obj\Debug\MasGlobalTest.DataAccessLayer.csproj.CopyComplete
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\obj\Debug\MasGlobalTest.DataAccessLayer.dll
+C:\Users\jmtej\source\repos\MasGlobalTest\MasGlobalTest.DataAccessLayer\obj\Debug\MasGlobalTest.DataAccessLayer.pdb
